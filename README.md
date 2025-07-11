@@ -13,10 +13,7 @@ When I’m not coding you’ll find me lifting weights, running along the Charle
 ### 🛠 Tech Stack
 | Category | Tools & Libraries |
 |---|---|
-| **Languages** | 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) · 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) · 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) · Spanish (Professional) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) · ![Rust (https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) · ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) · Spanish (Professional) |
 | **Python Libraries** | NumPy · Pandas · Scikit-Learn · Matplotlib · Seaborn · Plotly · NLTK · Flask · BeautifulSoup · pickle |
 | **Rust Crates** | serde · ndarray · linfa · rand · csv |
 | **Data / DevOps** | Linux · Git |
