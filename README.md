@@ -10,13 +10,13 @@ I'm Abby, a third-year honors student at Boston University majoring in Data Scie
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-43A5B?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F07857?style=flat&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-0000FF?style=flat&logo=git&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFFF33?style=flat&logo=git&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-9900FF?style=flat&logo=git&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000066?style=flat&logo=git&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-FF00FF?style=flat&logo=git&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-006666?style=flat&logo=git&logoColor=white)
-![pickle](https://img.shields.io/badge/-pickle-66FF00?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0000FF?style=flat&logo=SQL&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFFF33?style=flat&logo=BeautifulSoup&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-9900FF?style=flat&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000066?style=flat&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-FF00FF?style=flat&logo=Plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-006666?style=flat&logo=NLTK&logoColor=white)
+![pickle](https://img.shields.io/badge/-pickle-66FF00?style=flat&logo=pickle&logoColor=white)
 
 
 
