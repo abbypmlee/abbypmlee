@@ -8,8 +8,17 @@ I'm Abby, a third-year honors student at Boston University majoring in Data Scie
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-4169E1?style=flat&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-43A5B?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F07857?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0000FF?style=flat&logo=git&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFFF33?style=flat&logo=git&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-9900FF?style=flat&logo=git&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000066?style=flat&logo=git&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-FF00FF?style=flat&logo=git&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-006666?style=flat&logo=git&logoColor=white)
+![pickle](https://img.shields.io/badge/-pickle-66FF00?style=flat&logo=git&logoColor=white)
+
+
 
 <!--
 **abbypmlee/abbypmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
