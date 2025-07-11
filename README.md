@@ -8,7 +8,7 @@ When I’m not coding you’ll find me lifting weights, running along the Charle
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abbylee@bu.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-lee-700583294/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/abbypmlee/)
-[![Resume](https://img.shields.io/badge/-Résumé-4CAF50?style=flat&logo=ReadMe&logoColor=white)](https://your-resume-link.pdf)
+[![Resume](https://img.shields.io/badge/-Résumé-4CAF50?style=flat&logo=ReadMe&logoColor=white)](https://drive.google.com/file/d/1zKQKde9wHNH-cf7xKcNSBq67SdK_Ogkq/view?usp=drive_link)
 
 ### 🛠 Tech Stack
 | Category | Tools & Libraries |
